@@ -1,0 +1,3 @@
+textrequests
+beautifulsoup4
+selenium
